@@ -1,0 +1,7 @@
+#se agrega carpeta
+node_modules
+
+# se agrga .env
+
+.env
+
